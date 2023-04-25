@@ -13,6 +13,7 @@ The SF Nexus aspires to make a comprehensive dataset of science fiction literatu
 * Internet Archive
 * Luminist.org
 * HathiTrust
+
 Below, we outline data available from each of these resouces, and describe future plans to develop a combined dataset.
 
 Separately, work is ongoing to digitize old paperbacks and pulp magazines at institutions like Temple University Library. This hub will also help to make those materials available, for example, as derived datasets of extracted features like those available from HathiTrust. 
