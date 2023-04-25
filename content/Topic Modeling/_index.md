@@ -28,7 +28,7 @@ Topic 17: Disease Outbreak
 
 Topic 27: Desert Landscape Exploration
 
-![image](images/BERTopic_Desert_Landscape_Exploration_WordCloud.png)
+![image](BERTopic_Desert_Landscape_Exploration_WordCloud.png)
 
 Topic 61: Air Pollution
 
