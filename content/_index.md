@@ -12,4 +12,4 @@ SF Nexus is an open access project. Data and resources provided here is free for
 
 The full documentation can be found on Github: https://github.com/SF-Nexus
 
-Many thanks to the all the grad students, librarians, and faculty who have contributed to this project.
+Many thanks to the all grad students, librarians, and faculty who have contributed to this project.
