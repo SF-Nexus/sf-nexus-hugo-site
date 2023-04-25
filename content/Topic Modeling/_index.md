@@ -20,7 +20,7 @@ Unlike LDA, BERTopic automatically chooses the number of topics to generate with
 Here are the most frequent words in some topics of interest: 
 Topic 6: Street and Vehicles
 
-![image](/static/images//BERTopic_Street_Car_Driving_WordCloud.png "Cars_Word_Cloud")
+![image](/static/images/BERTopic_Street_Car_Driving_WordCloud.png)
 
 Topic 17: Disease Outbreak
 
