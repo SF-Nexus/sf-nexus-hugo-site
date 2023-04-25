@@ -24,26 +24,26 @@ Topic 6: Street and Vehicles
 
 Topic 17: Disease Outbreak
 
-![image](/static/images/BERTopic_Disease_Outbreak_WordCloud.png "Disease_Word_Cloud")
+![image](/static/images/BERTopic_Disease_Outbreak_WordCloud.png)
 
 Topic 27: Desert Landscape Exploration
 
-![image](/static/images/BERTopic_Desert_Landscape_Exploration_WordCloud.png "Desert_Word_Cloud")
+![image](/static/images/BERTopic_Desert_Landscape_Exploration_WordCloud.png)
 
 Topic 61: Air Pollution
 
-![image](/static/images/BERTopic_Air_Pollution_WordCloud.png "Air_Pollution_Word_Cloud")
+![image](/static/images/BERTopic_Air_Pollution_WordCloud.png)
 
 
 ### Topic Usage Comparison Between Authors
 
 We can also explore usage of topic per author. Here, for example, is a distribution of the topics Used By Brian Aldiss vs. Ursula Leguin
 
-![image](/static/images/BERTopic_Topic_Use_Comparison_Between_Aldiss_Leguin.png "Aldiss_Leguin_Topic_Comparison")
+![image](/static/images/BERTopic_Topic_Use_Comparison_Between_Aldiss_Leguin.png)
 
 ### Topic Usage Over Time
 
 Frequency with which authors use topics of interest throughout the 20th century. 
 Note: frequency is calculated each time a "chapter/chunk" from a book uses the topic most frequently, so the most frequently used topics might be frequent because of their prevalence across chapters of a particular book rather than across multiple books. This is something to fine-tune in how we build the visualization.
 
-![image](/static/images/BERTopic_Topic_Usage_over_Time.png "Topic_Use_Over_Time")
+![image](/static/images/BERTopic_Topic_Usage_over_Time.png)
