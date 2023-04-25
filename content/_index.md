@@ -9,5 +9,3 @@ SF Nexus is an open access project. Data and resources provided here is free for
 * **Python Notebooks:** Custom Jupyter notebooks in Google colab environments for easy exploration of our data
 * **Documentation:** Descriptions of pipelines used to digitize and analyze our dataset, from OCR cleaning to topic modeling and visualization
 * **Visualizations:** Output generated from analyses of our dataset, including topic modeling and word embeddings
-
-Test.
