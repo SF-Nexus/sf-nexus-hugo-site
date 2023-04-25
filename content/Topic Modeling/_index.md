@@ -24,11 +24,11 @@ Topic 6: Street and Vehicles
 
 Topic 17: Disease Outbreak
 
-![image](/static/images/BERTopic_Disease_Outbreak_WordCloud.png)
+![image](/images/BERTopic_Disease_Outbreak_WordCloud.png)
 
 Topic 27: Desert Landscape Exploration
 
-![image](/static/images/BERTopic_Desert_Landscape_Exploration_WordCloud.png)
+![image](/BERTopic_Desert_Landscape_Exploration_WordCloud.png)
 
 Topic 61: Air Pollution
 
