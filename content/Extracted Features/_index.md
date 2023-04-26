@@ -39,15 +39,3 @@ sFinally, we sorted the words in each chapter-chunk alphabetically in order to t
 ### Output: CSV File ("Bag-of-words" versions of segmented science fiction books)
   
 The resulting dataframe is available for download on our Extracted Features Github repository: https://github.com/SF-Nexus/extracted-features/tree/main/data 
-
-## Pipeline 2: BookNLP
-
-Talk about BookNLP and what it gives us
-
-### Input: TXT Files (Machine-readable versions of science fiction books)
-
-Talk about code
-
-### Output: CSV File (BookNLP-generated features from segmented science fiction books)
-
-Talk about output
