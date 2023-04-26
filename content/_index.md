@@ -5,6 +5,9 @@ cascade:
   featured_image: '/images/books.jpg'
 ---
 SF Nexus is an open access project. Data and resources provided here is free for everyone, including:
+
+![image](/images/button.png)
+
 * **Extracted Features:** Disaggregated feature sets from copyrighted literature, available for research purposes
 * **Python Notebooks:** Custom Jupyter notebooks in Google colab environments for easy exploration of our data
 * **Documentation:** Descriptions of pipelines used to digitize and analyze our dataset, from OCR cleaning to topic modeling and visualization
