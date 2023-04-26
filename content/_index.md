@@ -7,8 +7,11 @@ cascade:
 SF Nexus is an open access project. Data and resources provided here is free for everyone, including:
 
 ![image](/images/ef-button.png)
+
 ![image](/images/py-button.png)
+
 ![image](/images/doc-button.png)
+
 ![image](/images/viz-button.png)
 
 The full documentation can be found on Github: https://github.com/SF-Nexus
