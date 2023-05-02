@@ -34,7 +34,7 @@ Because the chapters in some sci-fi texts were much longer than others, we then 
 
   ![](/images/extracted_3.png)
 
-sFinally, we sorted the words in each chapter-chunk alphabetically in order to transform them from human-readable texts to "bags of words." 
+Finally, we sorted the words in each chapter-chunk alphabetically in order to transform them from human-readable texts to "bags of words." 
   
 ### Output: CSV File ("Bag-of-words" versions of segmented science fiction books)
   
